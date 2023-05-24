@@ -16,7 +16,7 @@ public final class Main {
 
     
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Калькулятор");
         Calculate calc = new Calculate();
 
         System.out.println(calc.addition(2, 34));
@@ -27,5 +27,5 @@ public final class Main {
     }
 
 
-
+  
 }
